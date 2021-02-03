@@ -70,7 +70,7 @@ def execution(nam, mail):
 				continue
 			elif "mailbox" in cek:
 				js = json.loads(cek)
-				print("\n\x1b[1;92m+--------|\x1b[1;97mPESAN BARU MASUK\x1b[1;92m|---------+")
+				print("\n\x1b[1;92m+--------|\x1b[1;97mYou Have A Mail\x1b[1;92m|---------+")
 				for jos in js:
 					list = jos["id"]
 				try:
