@@ -1,12 +1,12 @@
 # demonmail
-Temporary Email Genaretor By Demon 👽
+Temporary Email Genaretor By Saimon 👽
 
 ### Setting Up And Usage
-`git clone https://github.com/abdullahalemon2/demonmail`
+`git clone https://github.com/saimonahmed/saimonmail`
 
-`cd demonmail`
+`cd saimonmail`
 
-`python demon.py`
+`python Saimon.py`
 
 * Usage
 
